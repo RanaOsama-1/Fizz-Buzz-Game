@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+  }
+  #output p {
+    margin: 5%;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  .buzz {
+    background-color: blue;
+    color: white;
+  }
+  
+  .fizz {
+    background-color: green;
+    color: white;
+  }
+  
+  .fizzbuzz {
+    background-color: red;
+    color: white;
+  }
+  button{
+    width: 20%;
+    height: 10vh;
+    background-color: blue;
+    color: black;
+    font-size: 20px;
+  }
